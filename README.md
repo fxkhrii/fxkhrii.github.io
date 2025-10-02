@@ -1,3 +1,3 @@
-## Penugasan About ME 101 
-### Afif Fakhri Muhammad (G6401231007)
+## Iseng Jeee
+### fxkhrii
 https://fxkhrii.github.io
