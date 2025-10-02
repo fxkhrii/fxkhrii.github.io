@@ -1,4 +1,3 @@
-
 /*BEGIN PS4 Controller Styling*/
 /* Shell & Disconnected */
 .custom.controller, .custom.controller::after {
@@ -299,5 +298,6 @@
 }
 .custom .quadrant.p3 {
   filter: hue-rotate(30deg); /* purple */
+
 
 }
