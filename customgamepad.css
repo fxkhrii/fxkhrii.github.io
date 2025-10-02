@@ -251,7 +251,7 @@
   height: 5.4249vw;
   left: 46.4426vw;
   top: 42.0609vw;
-  background-image: url(https://imgur.com/undefined.png);
+  background-image: url(https://imgur.com/3AmBUkI.png);
   background-repeat: no-repeat;
   background-size: 8.943500vw 13.849788vw;
   background-position: -1vw -1vw;
@@ -298,4 +298,5 @@
 }
 .custom .quadrant.p3 {
   filter: hue-rotate(30deg); /* purple */
+
 }
